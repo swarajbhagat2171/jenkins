@@ -102,7 +102,7 @@ sudo chmod -R 755 /var/www/html/webdirectory
    * **Name**: `DemoServer`
    * **Hostname**: `<your-ec2-public-ip>`
    * **Username**: `ubuntu` (for Ubuntu AMI)
-   * **Remote Directory**: `/var/www/html/webdirectory/`
+   * **Remote Directory**: `/var/www/html/webdirectory`
    * **Key**: paste contents of `new_account.pem`
 
 Click **Test Configuration** → must say **Success** ✅.
